@@ -1,9 +1,6 @@
 Hi 👋 My name is Worrapong Ongsakul
 ===================================
 
-Software Developer
-------------------
-
 Work experience 
 <br>
 👉Web developer (Aug 2022 - Feb 2024) | Chalong Hospital 
