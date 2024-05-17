@@ -3,7 +3,7 @@ Hi 👋 My name is Worrapong Ongsakul
 
 Work experience 
 <br>
-👉Web developer (Aug 2022 - Feb 2024) | Chalong Hospital 
+👉Web developer (Aug 2022 - Now) | Chalong Hospital 
 <br>
 I developed a website intended for use inside the hospital.
 <br>
